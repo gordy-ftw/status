@@ -1,0 +1,38 @@
+[
+  {
+    "name": "API Health",
+    "url": "https://www.pokemonpricetracker.com/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/www.pokemonpricetracker.com.ico",
+    "slug": "api-health",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Website",
+    "url": "https://www.pokemonpricetracker.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.pokemonpricetracker.com.ico",
+    "slug": "website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 329,
+    "timeDay": 329,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 329,
+    "dailyMinutesDown": {}
+  }
+]
